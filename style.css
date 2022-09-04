@@ -1,0 +1,33 @@
+body {
+  padding-bottom: 45px;
+  background: fixed url(../img/background.jpg) no-repeat center center;
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100%;
+  height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: open sans, sans-serif;
+  color: #616161;
+}
+th {
+  color: #696969;
+  font-family: open sans, sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+td {
+  vertical-align: middle !important;
+}
+.wrap {
+  width: 900px;
+  margin: 0 auto;
+}

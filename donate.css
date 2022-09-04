@@ -1,0 +1,8 @@
+/* table {
+    background-color: rebeccapurple;
+} */
+.stats-table table {
+    width: 0;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+  }
